@@ -11,6 +11,9 @@
   3.1 获取仓库克隆 URL
   3.2 打开 Git Bash
   3.3 克隆仓库到本地
+  3.4 win 新建一个文件夹 vscode 打开这个文件夹
+  3.5 vscode新建终端 -> git clone 自己项目的链接
+  3.6 本地编辑项目
 
 步骤 4：使用 VSCode 同步代码到 GitHub
   4.1 打开 VSCode
